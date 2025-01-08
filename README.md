@@ -21,7 +21,7 @@ Welcome to the **Simplest Portfolio Design** project! This is a beginner-friendl
    
 
 ```bash
-    git clone https:/onepiece-coding/github.com/Simplest-Portfolio-Design---HTML-CSS.git
+    git clone https://github.com/onepiece-coding/Simplest-Portfolio-Design---HTML-CSS.git
 ```
    
 3. Open the Project:
