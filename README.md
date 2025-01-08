@@ -52,7 +52,7 @@ Welcome to the **Simplest Portfolio Design** project! This is a beginner-friendl
 
 This project was created as part of a tutorial on our YouTube channel [OnePiece Coding](https://www.youtube.com/@OnePieceCoding). Check out the video to follow along step-by-step:
 
-[Watch the Tutorial]()
+[Watch the Tutorial](https://youtu.be/Cf5eJUK9JwU)
 
 ## Credits
 
