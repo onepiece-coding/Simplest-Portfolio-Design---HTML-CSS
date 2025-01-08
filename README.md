@@ -24,7 +24,7 @@ Welcome to the **Simplest Portfolio Design** project! This is a beginner-friendl
     git clone https://github.com/onepiece-coding/Simplest-Portfolio-Design---HTML-CSS.git
 ```
    
-3. Open the Project:
+2. Open the Project:
 
 - Navigate to the project folder and open index.html in your browser to view the portfolio.
 
